@@ -2,20 +2,17 @@
   "code": "00",
   "mensagem": "Sucesso",
   "dados": [
-      {
-    "id": 64,
-    "nome": "Lucas",
-    "Senha": "99a9c92d753df9e4541af3ad9d9c35fb"
-  },
-  {
-    "id": 2,
-    "nome": "Luciano",
-    "Senha": "9a440f1f071dad3043b6c8ba93bb761c"
-  },
-  {
-    "id": 32,
-    "nome": "Libelson",
-    "Senha": "d5ba2f763ef411812252a1d093d597c4"
-  }
+    {
+      "car_codigo": "x",
+      "rot_nome_carga": "xxxxxxxx"
+    },
+    {
+      "car_codigo": "x",
+      "rot_nome_carga": "xxxxxxxx"
+    },
+    {
+      "car_codigo": "x",
+      "rot_nome_carga": "xxxxxxxx"
+    }
   ]
 }
