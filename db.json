@@ -1,5 +1,8 @@
 {
-  "result": [
+  "result": {"code": "00",
+  "mensagem": "Sucesso",
+  "dados": [
+
      {
     "id": 64,
     "nome": "Lucas",
@@ -15,7 +18,7 @@
     "nome": "Libelson",
     "Senha": "d5ba2f763ef411812252a1d093d597c4"
   }
-  ],
+  ]},
   "comments": [
     {
       "id": 1,
